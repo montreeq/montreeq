@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 About Me 
+
+---
+
+📖 บล็อกบันทึก การเขียนโปรแกรม, การพัฒนาเว็บไซต์, Coding, Programming, Web Development, และที่เกี่ยวข้องกับ Tech ต่างๆ
 
 <!--
 **montreeq/montreeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
